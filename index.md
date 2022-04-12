@@ -1,4 +1,4 @@
-## Automating conversion of music files with a Docker container
+## Automating conversion of music files with a Docker container is so easy
 
 Code samples for two types of conversions, **FLAC to ALAC** and **FLAC to mp3**, can be found here. If file format you are converting from (or to) is different than what is demonstrated in the code here, feel free to modify the code to get to (and from) format you're interested in.
 
