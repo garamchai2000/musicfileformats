@@ -1,2 +1,2 @@
 # musicfileformats
-Dockerfile and script for converting between music file formats
+Dockerfile and bash script for converting between music file formats
