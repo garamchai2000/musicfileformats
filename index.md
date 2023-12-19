@@ -8,4 +8,4 @@ I use ALAC specifically on Mac/iPhone and FLAC on MoOde player running on a Rasp
 
 Feel free to **visit** [LightInThisWorld.com](https://lightinthisworld.com) for other DIY hacks, ramblings, and pics. Or, not.
 
-![Image](https://live.staticflickr.com/65535/51989842751_46acc6462e_b.jpg)
+![Image](https://live.staticflickr.com/65535/53149010667_0177a44cc4_h.jpg)
